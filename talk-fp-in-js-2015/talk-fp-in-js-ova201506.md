@@ -396,4 +396,4 @@ Též: [Elegant Functional Architecture for React](https://medium.com/@gilbox/an
 
 * Twitter: @HolyJak
 * TheHolyJava.wordpress.com
-* Slidy: **TBD**
+* Slidy: http://jakubholynet.github.io/talks/talk-fp-in-js-2015/
