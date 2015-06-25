@@ -157,7 +157,7 @@ Note: Záleží na kontextu, co je nej.: imperativní ASM, FP, logické progr., 
 ---
 
 ## Ukázka: Deklarativní > FP
-**TBD** zdroj a cil JS
+Viz [Declarative Beats Imperative: Transforming Data In JavaScript](https://wondersofcode.wordpress.com/2015/03/13/declarative-beats-imperative-transforming-data-in-javascript/) pro detaily.
 ```js
 Def({
   singleGroupBy: "productId",
@@ -308,6 +308,7 @@ Immutable.js - Icepick - seamless-immutable
 | seamless-immutable |   3 kB   |     ☆☆   |  ☆☆ |     ☆    |
 | icepick            |   3 kB   |     ☆     |  ☆☆ |     ☆    |
 
+("Holý JS" = "Plain old JS" :-))
 (`React.addon.update`)
 
 ---
