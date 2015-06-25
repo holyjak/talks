@@ -369,7 +369,7 @@ i.reverse(i.push(i.freeze([1,2,3], 4))
 
 ## Zdroje
 
-* **TBD** The Power and Practicalities of Immutability - Venkat Subramaniam at NDC Oslo 2015
+* [The Power and Practicalities of Immutability](https://vimeo.com/131635253) - Venkat Subramaniam at NDC Oslo 2015
 * [Immutable JavaScript by Christian Johansen at Web Rebels 2015](https://vimeo.com/128790457) - Immutable.js & Miny
 
 ---
