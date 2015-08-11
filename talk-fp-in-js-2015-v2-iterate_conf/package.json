@@ -1,0 +1,15 @@
+{
+  "name": "fp-in-js-talk",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "engines": {
+    "iojs": "3.x",
+    "npm": "2.x"
+  },
+  "dependencies": {
+    "lodash-fp": "^0.10.1",
+    "lodash": "^3.10.1",
+    "seamless-immutable": "^2.4.2"
+  }
+}
